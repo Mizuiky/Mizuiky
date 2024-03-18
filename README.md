@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src='Resources\cat banner.png 'alt="banner"> </img>
+<img src='Resources\cat banner.png ' width="1000" height="240" alt="banner"> </img>
 </p>
 
 <p align="center">
@@ -14,6 +14,9 @@
 
 
 <img alt="Night Coding" src="Resources\mochi-peach.gif" width="200" height="200" align="right"/>
+
+
+
 
 
 ## Tech Stack
