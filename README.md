@@ -15,9 +15,14 @@
 
 ## Hi! I`m Priscila.
 
-### About Me
-
-
+<div style="display: flex; align-items: center;">
+    <p>
+        <span style="font-size: larger;">
+            <strong>About Me</strong> 
+        </span>
+    </p>
+    <img src="Resources\strawberry-celeste.gif" alt="Descrição do GIF" style="width: 50px; height: 30px;">
+</div>
 
 
 <img alt="Coding" src="Resources/girl-pixel.gif" width="300" height="200"/>
