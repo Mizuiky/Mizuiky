@@ -13,18 +13,23 @@
 </p>
 
 
-## Hello! I`m Priscila
+## Hi! I`m Priscila.
+
+### About Me
 
 
-<img alt="Night Coding" src="Resources\mochi-peach.gif" width="200" height="200" align="right"/>
 
 
-
+<img alt="Coding" src="Resources/girl-pixel.gif" width="300" height="200"/>
 
 
 ## Tech Stack
 
+
+
 <p align="center">
+
+<img alt="Coding" src="Resources\mochi-peach.gif" width="150" height="150" align="right"/>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -34,7 +39,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 </p>
 
 
