@@ -8,7 +8,10 @@
 <a href="priscila.mizuiky@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://mizuiky.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white"/></a>
 <a href="https://globalgamejam.org/users/mizuiky?check_logged_in=1"><img src="https://img.shields.io/badge/Global Game Jam-%23FF0B34.svg?style=flat&logo=GGJ&logoColor=white&color=8247E5"/></a>
+<a href="https://github.com/Mizuiky?tab=followers">
+<img src="https://img.shields.io/github/followers/Mizuiky.svg?style=social&label=Follow&maxAge=2592000"/></a>
 </p>
+
 
 ## Hello! I`m Priscila
 
