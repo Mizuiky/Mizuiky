@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src='Resources\cat banner.png' alt="banner"> </img>
+<img src='Resources\cat banner.png ' width="1000" height="200" alt="banner"> </img>
 </p>
 
 <p align="center">
