@@ -17,11 +17,12 @@
         <span style="font-size: 20px;">
             <strong>Hi! I`m Priscila.</strong> 
         </span>
+        <img alt="Mizuiky's github stats" src="Resources\kawaii-cute.gif" style="width: 35px; height: 30; float: center;"/>
     </p>
-    <img alt="Mizuiky's github stats" src="Resources\kawaii-cute.gif" style="width: 35px; height: 30; float: center;"/>
+   
 </div>
 <p>
-    <span style="font-size: 18px;">
+    <span style="font-size: 20px;">
         <strong>About Me</strong> 
     </span>
 </p>
@@ -41,7 +42,7 @@
                     <strong>Interests 💡📖</strong> 
                 </span>
                 </br>
-                I have a keen interest in expanding my skills and knowledge. Here are a few areas I particular worl like to learn and dive into:
+                I have a keen interest in expanding my skills and knowledge. Here are a few areas I particular would like to learn and dive into:
                 </br>
                 <ul>
                     <li><strong>Shaders:</strong> Exploring the world of shaders to enhance visual effects and create stunning graphics</li>
